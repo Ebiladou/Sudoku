@@ -1,0 +1,15 @@
+.cell {
+    background-color: #eaeef4;
+    border: 1px solid rgba(15, 205, 21, 0.8);
+    width: 40px;
+    height: 40px;
+    font-size: 30px;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 5px;
+  }
+  
+  .cell:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+  }
